@@ -55,7 +55,7 @@ int main() {
         scanf("%d", &carta[i].numPontoTuristico);
     }
     
-    system("cls");
+    system("clear");
 
     for (int i = 0; i <= 1; i++)
     {
